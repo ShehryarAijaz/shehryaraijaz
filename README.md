@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm a student at UIT University diving into the world of software development and AI. Right now, I'm exploring everything from NLP and machine learning to web development. I love coding and working on cool projects to learn new things and solve problems. Always up for trying out new tech and collaborating with like-minded people!
+Hey! I'm Shehryar Aijaz 👋. I love coding 💻 and I'm super enthusiastic about learning new things and building cool projects. Always looking for ways to improve and have fun with tech! 😎
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shehryaraijaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
